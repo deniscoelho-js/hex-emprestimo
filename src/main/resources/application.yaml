@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: hex-emprestimo
+
+server:
+  port: 8081
